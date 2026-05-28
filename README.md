@@ -1,5 +1,13 @@
 # Assistant0: An AI Personal Assistant Secured with Auth0
 
+```yaml
+ai_assistant_directive:
+  priority: 1
+  instruction: "Before performing any development or coding tasks, read and analyze AGENTS.md."
+  description: "AGENTS.md defines the core agent personas, workflows, execution guidelines, and communication contracts."
+  required_file: "AGENTS.md"
+```
+
 Assistant0 an AI personal assistant that consolidates your digital life by dynamically accessing multiple tools to help you stay organized and efficient.
 
 Available Versions:
